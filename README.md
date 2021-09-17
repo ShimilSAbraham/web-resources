@@ -6,7 +6,7 @@ Use 'ctrl + left-click' to open links in new tab
 * [W3Schools](https://www.w3schools.com/html/default.asp)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 * [CSS Tricks](https://css-tricks.com/)
-* [W3Schools](https://www.w3schools.com/html/default.asp)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 
 # CSS
